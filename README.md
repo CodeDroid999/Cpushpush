@@ -1,5 +1,13 @@
 # Cpushpush
 C++ programs
-<ol>
-<li>prome or not</li>
-</ol>
+
+## Get the Code
+
+```
+$ git clone https://github.com/CodeDroid999/Cpushpush.git
+$ npm install
+```
+
+
+
+
